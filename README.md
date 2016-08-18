@@ -2,4 +2,6 @@
 
 ## modified README.md
 
-## modified after first commit 
+## modified after first commit
+
+## modified for test `git diff` 
